@@ -11,7 +11,7 @@ def localizacao(cidade):
     r = db["results"][0]
     lat = (r["latitude"])
     lng = r["longitude"]
-    name = {r['name']}
+    name = r['name']
     return lat, lng, name
 
 def clima(latitude, longitude):
