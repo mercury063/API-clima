@@ -1,7 +1,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxpKRakedhkdzYMuql50HxPQkq3lwslwJBk9enLpFKeA&s=10" style="width: 128px; height: 128px;">
 
 ## API clima (Open Mateo)
-> Exemplo de uso de API em python usando a lib resquest.
+> Exemplo de uso de API em python usando a lib request.
 
 
 ## AVISO
